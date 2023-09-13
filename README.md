@@ -1,17 +1,1 @@
-Description:
-
-JetFit is a cutting-edge fitness training app that offers a comprehensive workout experience to fitness enthusiasts of all levels. With a powerful combination of features, JetFit empowers users to achieve their fitness goals, stay motivated, and connect with a like-minded fitness community.
-
-Key Features:
-
-Multiple Playlists of Videos: Explore a vast library of workout videos categorized into various playlists, catering to different fitness goals, from weight loss to muscle gain and flexibility.
-
-Challenges and Goals: Take on exciting fitness challenges and set personalized fitness goals to track your progress and achieve your dream physique.
-
-Diverse Exercise Catalog: Access a wide range of exercises with detailed instructions and video demonstrations to ensure proper form and technique.
-
-Web Admin Panel: Our web-based admin panel allows fitness trainers and administrators to manage content, user accounts, and monitor app performance seamlessly.
-
-User and Admin Chat: Connect with fellow fitness enthusiasts and trainers through in-app chat functionality. Admins can provide real-time support and guidance to users.
-
-In-App Purchases: Unlock premium content and features through in-app purchases to enhance your fitness journey further.
+"JitFit" is a cutting-edge fitness app designed to revolutionize your exercise journey. With a vast library of instructional workout videos, it caters to all fitness levels and preferences. Powered by Firebase for seamless backend support, JitFit offers in-app purchases for premium content and features. Stay motivated with timely notifications and let administrators manage and curate content effortlessly through the admin panel. JitFit is your ultimate fitness companion, making it easier than ever to achieve your health and wellness goals.
